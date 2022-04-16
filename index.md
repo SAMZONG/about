@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的空间
 
-You can use the [editor on GitHub](https://github.com/SAMZONG/about/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+这是我使用正在打造的个人空间，在这里我会定期更新我正在做的事情，如果你也有兴趣，欢迎联系我。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+首先，请允许我先介绍下这个网站的构成：
+
+> Markdown + Jekyll + Github Pages
 
 ### Markdown
 
